@@ -4,7 +4,7 @@ import json
 import json5  # pip install json5
 
 # === CONFIG ===
-input_file = "4. Primary 1 - Syllabus.txt"   # file đầu vào (.txt)
+input_file = "Primary 6 - Syllabus.txt"   # file đầu vào (.txt)
 output_dir = "output_json"
 os.makedirs(output_dir, exist_ok=True)
 

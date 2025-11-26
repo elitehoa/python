@@ -13,3 +13,6 @@
 venv/
 html_lesson_plan/
 html_syllabus/
+output_json/
+json_syllabus/
+json_lesson_plan/
