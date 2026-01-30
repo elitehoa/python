@@ -1,0 +1,126 @@
+{
+  "lessonPlan": [
+    {
+      "topic": "Hello Song & Circle TIme",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p35-36 - Lesson 1 Vocab Review [15 mins]",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p35-36 - Lesson 1 CPT Games [10 mins]",
+      "timing": "10",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p35-36 - Lesson 2 Review [15 mins]",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Break",
+      "timing": null,
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Numbers Book p111 - Join the dots from 5 to 100",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Join the dots from 5 to 100 reinforces the numerical sequence and develops fine motor skills."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct sequencing and neat joining."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p112 - Add and take away and write",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Add and take away and write practises numeracy skills and numeral formation."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct answers, neat handwriting."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Return to scene & goodbye",
+      "timing": "8",
+      "resourceId": null,
+      "data": []
+    }
+  ]
+}

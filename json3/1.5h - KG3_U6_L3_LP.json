@@ -1,0 +1,212 @@
+{
+  "lessonPlan": [
+    {
+      "topic": "Hello Song & Circle TIme",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p9-10 - Lesson 1 Vocab Review [15 mins]",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p9-10 - Lesson 1 CPT Games [10 mins]",
+      "timing": "10",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p9-10 - Lesson 2 Review [15 mins]",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Break",
+      "timing": null,
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Numbers Book p93 - Look and count.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look and count reviews counting and identification of the numbers 1-50."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct counting and accurate identification of the numbers written within the items of clothing."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p93 - 2. Listen to your friend. Colour.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen to your friend. Colour develops students' listening skills while reviewing the colours and target vocabulary."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for clear instructions, careful listening, students colouring the correct items the correct colours, and natural turn-turning with their classmates."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p94 - 1. Look, count and write.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look, count and write further reviews the target language and numbers."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for confident, accurate counting, and the correct numbers clearly written within the circles."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p94 - Draw.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Draw provides the opportunity to further use the target vocabulary and key structure in a more engaging way."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for the correct number in the circle for the number of items students have drawn on the hat."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Return to scene & goodbye",
+      "timing": "8",
+      "resourceId": null,
+      "data": []
+    }
+  ]
+}

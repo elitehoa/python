@@ -1,0 +1,205 @@
+{
+  "lessonPlan": [
+    {
+      "topic": "Hello Song & Circle TIme",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p16 - Listen & circle",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen and circle gives students an opportunity to review the target language through active listening while they practice fine motor skills."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct identification of each toy while students listen, and accurate circling and confidence in the task."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p16 - Draw your toys",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Draw your toys gives students freer practice of the target language and key structure in a more personalised and engaging way. It allows students to strengthen oral fluency and apply the target language in a way that is relevant in a real-world context."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for recognisable toys similar to the ones shown in the lessons, a range of toys drawn in the space provided and active participation."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p16 - Point and say",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Point and say further reviews the target vocabulary from the unit and helps students practise giving simple picture descriptions of familiar toys."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate identification of the toys, accurate pronunciation of the target language, and confident participation."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Break",
+      "timing": null,
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Return to scene & goodbye",
+      "timing": "8",
+      "resourceId": null,
+      "data": []
+    }
+  ]
+}

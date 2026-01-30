@@ -1,0 +1,255 @@
+{
+  "lessonPlan": [
+    {
+      "topic": "Hello Song & Circle TIme",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p27-28 - Lesson 1 Vocab Review [15 mins]",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p27-28 - Lesson 1 CPT Games [10 mins]",
+      "timing": "10",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p27-28 - Lesson 2 Review [15 mins]",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Break",
+      "timing": null,
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Numbers Book p105 - Complete the picture.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Complete the picture reinforces shape recognition and fine motor skills. Students trace the dotted lines to complete the triangle tree, the square boxes on the truck, and the circular tree."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for neat tracing of the specific geometric forms (triangle, square, circle) within the scene."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p105 - 2. Count and write.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Count and write develops visual classification and sorting. Students find and count all the examples of each shape (circle, square, triangle, rectangle) in the truck scene and write the totals."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate counting (e.g., counting the sun, wheels, and tree top as circles) and writing the correct number in the corresponding box."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p106 - 1. Trace and say the shape.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Trace and say reviews the names of 2D shapes. Students trace the outline of the square, triangle, rectangle, and circle while naming them aloud."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct formation of the shapes and clear pronunciation of \"square,\" \"triangle,\" \"rectangle,\" and \"circle.\""
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p106 - Draw.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Draw assesses the ability to produce shapes independently. Students draw a solid version of the shape in the coloured box next to the tracing."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for recognizable drawings of the target shapes showing accurate proportions."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p106 - 3. Count the sides and corners. Write.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Count sides and corners introduces geometric properties. Students count the straight lines (sides) and points (corners) of each shape and write the number in the grid."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct analysis: Square (4 sides, 4 corners), Triangle (3, 3), Rectangle (4, 4), Circle (0/1 curved line, 0 corners)."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Return to scene & goodbye",
+      "timing": "8",
+      "resourceId": null,
+      "data": []
+    }
+  ]
+}

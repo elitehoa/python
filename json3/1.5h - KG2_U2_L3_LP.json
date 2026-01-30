@@ -1,0 +1,212 @@
+{
+  "lessonPlan": [
+    {
+      "topic": "Hello Song & Circle TIme",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p11-12 - Lesson 1 Vocab Review [15 mins]",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p11-12 - Lesson 1 CPT Games [10 mins]",
+      "timing": "10",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p11-12 - Lesson 2 Review [15 mins]",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Break",
+      "timing": null,
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Numbers Book p81 - Look and count.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look allows students to recognise numbers 1-10 and the vocabulary from the unit.  Count allows students to practise some of the target language while strengthening their counting skills."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate counting of the food, and correct pronunciation of the numbers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p81 - 2. Colour.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Colour strengthens\nrecognition of numbers."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for careful colouring to highlight the numbers."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p82 - 1. Trace",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Trace gives students controlled practice forming numbers and neat handwriting."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct number formation, and neat handwriting within the lines."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p82 - Count and match.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Count provides controlled practice of numbers 1-10. Match reinforces the numbers."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for clear lines between the numbers and correct matching of the numbers and the pictures."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Return to scene & goodbye",
+      "timing": "8",
+      "resourceId": null,
+      "data": []
+    }
+  ]
+}

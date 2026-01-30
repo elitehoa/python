@@ -3,8 +3,8 @@ import json
 import re
 from docx import Document
 
-INPUT_DIR = "LP Primary 1"
-OUTPUT_DIR = "output_json"
+INPUT_DIR = "KG 2h 2"
+OUTPUT_DIR = "json6"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ===== CONTROL CHAR CLEANER =====

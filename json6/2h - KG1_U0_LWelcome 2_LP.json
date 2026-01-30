@@ -1,0 +1,382 @@
+{
+  "lessonPlan": [
+    {
+      "topic": "Hello Song & Circle TIme",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p2 - Listen and point. Do the actions.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen and point allows students to practise sound–meaning matching. Pointing confirms accurate identification of the words they hear.\nDo the actions checks understanding by asking students to mimic the actions they hear and see."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for careful listening, correct pointing and joining in with the appropriate actions."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p2 - Listen, point and say.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen, Point and Say checks understanding of word meaning and sound. Listening and pointing show accurate sound–image matching, while saying builds early pronunciation accuracy."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct pointing, clear repetition of the target language, correct intonation and recognisable pronunciation of target vocabulary."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p2 - Listen again. Say and do the actions.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen, again. Say and do the actions checks understanding of word meaning and sound. Listening reinforces learning of the target vocabulary, while actions reinforce understanding."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for clear repetition of the target language, correct intonation and recognisable pronunciation of initial words, as well as the correct actions."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Break",
+      "timing": null,
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Activity Book p32 - Find the difference",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Find the difference checks recognition of simple action words by comparing two pictures with small changes."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate identification of actions (jump up, sit down, clap), correct reference to each picture, and spotting all of the differences."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Activity Book p32 - Point and say",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Point & say reinforces recognition of action words by linking them to a visual prompt. Saying supports accurate sound production and strengthens early letter–word associations."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate pointing to actions, and clear pronunciation of target vocabulary."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Activity Book p32 - Sing the song",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Sing the song checks recognition of target vocabulary and their picture associations, promoting early sound awareness while reinforcing meaning through singing."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for clear and confident singing of key words and actions and confident participation."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

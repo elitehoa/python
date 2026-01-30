@@ -1,0 +1,571 @@
+{
+  "lessonPlan": [
+    {
+      "topic": "Hello Song & Circle TIme",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p35 - Listen, point and say.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen, point and say connects geometric terms to real-world objects. Students listen to the audio and identify the sphere (orange), cylinder (can), and cone (ice cream)."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct pointing to the specific food items when the shape name is called out and clear repetition of \"sphere,\" \"cylinder,\" and \"cone.\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p35 - Match.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Match reinforces the link between the abstract shape and the object. Students draw lines connecting the 3D shape icon to the corresponding food item."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate lines connecting the yellow sphere to the orange, the blue cylinder to the can, and the green cone to the ice cream."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p35 - Listen and check. Then say.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen and check validates the students' work. Students listen to the audio confirmation to ensure they matched correctly, then verbally repeat the pairs."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for students nodding or self-correcting their lines and saying sentences like \"The orange is a sphere.\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p35 - Look at the pattern and say. Then draw.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look and draw develops logical sequencing. Students analyse the pattern of shapes (sphere, sphere, cylinder, cone, cone...) to determine what comes next and draw it in the box."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct identification of the pattern rule and drawing the right shapes next to the blue cylinder in the box."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Break",
+      "timing": null,
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Activity Book p70 - Trace the shapes.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Trace develops fine motor control and shape formation. Students trace the dashed lines of the sphere, cylinder, and cone to understand their 3D representation on paper."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for careful pencil control following the curves and straight lines of the 3D shapes."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Activity Book p70 - Read and tick What's next?",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Read and tick assesses pattern recognition. Students look at the sequence of food items and tick the box for the item that should come next in the logical order."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct ticking of the empty box next to the matching shape (e.g., ticking the cone after the pattern implies a cone)."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p97 - Add or take away. Match.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Add or take away combines arithmetic with shape recognition. Students solve the sums inside the shapes (e.g., 14+2) and draw a line to the correct answer."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct calculation (16, 27, 33, 40, 36) and accurate lines connecting the sums to the answers on the right."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p98 - Look and say the shapes.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look and say reviews the shape vocabulary in a new context. Students identify the shapes of the fruit and marshmallow pieces on the kebab stick."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for pointing to the grape and saying \"sphere,\" or the marshmallow and saying \"cylinder.\""
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p98 - Draw your fruit treat.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Draw encourages creative application of the lesson. Students draw their own arrangement of fruit shapes on the plate to create a healthy treat."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for recognizable drawings of fruit shapes (spheres, cylinders) arranged on the plate."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Return to scene & goodbye",
+      "timing": "8",
+      "resourceId": null,
+      "data": []
+    }
+  ]
+}

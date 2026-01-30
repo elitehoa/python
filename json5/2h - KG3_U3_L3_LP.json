@@ -1,0 +1,876 @@
+{
+  "lessonPlan": [
+    {
+      "topic": "Hello Song & Circle TIme",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p21 - Listen and say.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen and Say introduces the target 'oo' sound and its written form. Students listen to the sound and repeat it to practise correct mouth formation and pronunciation."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for attentive listening and clear, confident repetition of the 'oo' sound."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p21 - Trace. Then write.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Trace and Write develops fine motor skills and letter formation. Students trace the 'oo' digraph to build muscle memory and then write it independently to reinforce its shape."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct pencil grip, neat formation of the 'oo' letters within the lines, and confident completion of the task."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p21 - Listen, point and say.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen, Point and Say checks understanding of word meaning and sound. Listen and point shows they match what they hear to the right image. Say practises first-step pronunciation."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for careful listening, correct pointing to the specific images (book, look, school, pool), and clear pronunciation of the 'oo' words."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Break",
+      "timing": null,
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Activity Book p59 - 1. Cut, sort and stick.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Cut, sort and stick develops auditory discrimination and categorization skills. Students cut out pictures and sort them based on whether they have a long or short 'oo' sound."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate cutting, and correct placement of pictures into the 'Long oo' and 'Short oo' columns."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Activity Book p59 - 2. Read and circle yes or no.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Read and circle reinforces reading comprehension and personalization. Students read the sentence and circle 'Yes' or 'No' to connect the classroom learning to their own school environment."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct identification of the sight words and a logical circling of 'Yes' or 'No' based on their school."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p21 - 4. Circle pictures.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Circle pictures develops phonemic awareness and sound discrimination. Students listen and categorise the words by circling them in the colour corresponding to the long or short vowel sound."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate listening for the vowel sound and correct circling of the pictures with the specified red and blue colours."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p21 - 5. Complete the words.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Complete the words reinforces spelling and sound-symbol correspondence. Students fill in the missing 'oo' digraph to correctly spell the target vocabulary words from the lesson."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct spelling of the four target words (book, look, school, pool) with the 'oo' digraph."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p21 - 6. Listen and read. Then trace.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen, read and trace combines auditory, visual, and kinesthetic learning. Students connect the spoken sentence to the written form, building sight-word recognition and reinforcing sentence structure."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for students following the text as they listen, accurate tracing of the sentence, and attempts to read along."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p87 - Colour the books on the top shelf",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Colour reinforces number recognition and listening skills. Students identify specific numbers on the books and apply the correct colour according to the instructions."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct identification of the numbers 30–40 and accurate colouring of the books (e.g., book 33 is red)."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p87 - 2. Ask and answer",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Ask and answer provides controlled speaking practice. Students work in pairs to identify the numbers and say the corresponding colour, checking their understanding."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for clear pronunciation of the numbers and colours, and correct matching of the two concepts."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p87 - 3. Write the numbers in order",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Write the numbers develops numeracy and sequencing skills. Students write the missing numbers on the bottom shelf to complete the sequence from 30 to 40."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct numerical order and legible formation of the numbers on the book spines."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p88 - 1. Choose a colour",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Choose a colour allows for personalization and reviews colour vocabulary. Students select a specific colour to focus on for the counting task."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for clear pronunciation of the chosen colour name and focused attention on that specific colour of note."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p88 - Count",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Count develops numeracy skills within the context of the lesson theme. Students count the number of musical notes of their chosen colour to find the total."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate counting (one-to-one correspondence) of the musical notes in the picture."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p88 - 3. Write",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Write provides controlled practice in number formation. Students write the total number of notes they counted to complete the activity."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct formation of the number and accuracy in the count (matching the visual evidence)."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Return to scene & goodbye",
+      "timing": "8",
+      "resourceId": null,
+      "data": []
+    }
+  ]
+}

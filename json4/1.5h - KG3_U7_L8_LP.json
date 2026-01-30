@@ -1,0 +1,693 @@
+{
+  "lessonPlan": [
+    {
+      "topic": "Hello Song & Circle TIme",
+      "timing": "15",
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Student Book p25 - Complete the number line.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Complete the number line develops reverse sequencing skills by tens. Students identify the missing numbers in the countdown sequence (50, 30) to complete the line from 70 down to 10."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct writing of '50' between 60 and 40, and '30' between 40 and 20."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p25 - Say the chant.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Say the chant reinforces the reverse sequence through rhythm. Students chant \"70, 60, 50...\" to aid memorisation of the decade numbers."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for enthusiastic participation and clear pronunciation of the numbers in reverse order, staying in time with the beat."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p25 - Count the buses.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Count the buses links the abstract numbers to concrete objects. Students count the vertical line of yellow buses to verify there are seven groups (representing the tens)."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for students pointing to each bus and counting \"1, 2, 3, 4, 5, 6, 7\" or \"10, 20... 70\"."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p25 - Count and circle groups of 10 children.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Count and circle develops visual grouping and estimation. Students find clusters of ten children in the park scene and draw a circle around them."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate counting of 10 distinct figures and drawing a line to encompass exactly that group."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p25 - 5. Count the groups by 10s.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Count by 10s verifies the total. Students count the circled groups (10, 20, 30...) to find the total number of children in the park."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for pointing to the circled groups and counting by tens up to the total number shown."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Student Book p25 - 6. Say the chant and do the actions.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Say the chant and do the actions adds kinesthetic reinforcement. Students repeat the chant while performing actions."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for coordination of the physical action with the spoken number."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nHeads Together: \nDemo/Instruct and ask ICQs, including setting behaviour expectations. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Break",
+      "timing": null,
+      "resourceId": null,
+      "data": []
+    },
+    {
+      "topic": "Activity Book p70 - Complete the missing numbers.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Complete the missing numbers assesses sequential counting. Students fill in the blank segments of the caterpillars to complete the number sequences from 41 to 70."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct writing of the missing digits (e.g., 44, 46, 48) in the correct order."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Activity Book p70 - Count.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Count checks understanding of the full sequence. Students read the completed caterpillar numbers aloud to verify the order is correct."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for confident reading of the numbers from 41 through to 70 without skipping or reversing digits."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p103 - Listen and colour.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Listen and colour combines numeracy with auditory comprehension. Students listen to instructions (e.g., \"Colour number 30 green\") and locate the specific number on the rocket/astronaut scene to colour it."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for accurate identification of the numbers (10, 20, 30, etc.) and selection of the correct colour based on the teacher's instruction."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p104 - Point and say.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Point and say reviews number recognition in a random order. Students point to the footballers and say the number on their shirt."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for clear pronunciation of the two-digit numbers (52, 27, 45, etc.)."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Numbers Book p104 - Write the numbers in order.",
+      "timing": null,
+      "resourceId": null,
+      "data": [
+        {
+          "title": "Stage aim",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Write in order develops understanding of value and magnitude. Students sequence the random football numbers from smallest to largest."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Evidence of learning",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Look for correct ordering: 11, 27, 36, 45, 52, 64, 70 written on the lines."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Context",
+          "summary": null,
+          "highlights": [],
+          "contents": [
+            {
+              "section": null,
+              "items": [
+                {
+                  "category": null,
+                  "details": [
+                    "Heads Up: \nFocus the students’ attention on the CPT and present relevant features of the language (MFP). Then demonstrate the activity with TA/students.\nHeads Down: \nSs open their books. Instruct and ask ICQs. Then monitor, providing support and stretch where needed. Conduct activity feedback and error correction.\nReward moment\nCheck behaviour expectations and reward with APOS or remind for 4Rs"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Return to scene & goodbye",
+      "timing": "8",
+      "resourceId": null,
+      "data": []
+    }
+  ]
+}
