@@ -2,9 +2,9 @@ import os
 import json
 import re
 from docx import Document
-
-INPUT_DIR = "KG 2h 2"
-OUTPUT_DIR = "json6"
+# Sử dụng file này: Mục đích -> Đọc các file .docx trong thư mục, gom toàn bộ text, parse thành JSON và ghi ra thư mục output
+INPUT_DIR = "Silver"
+OUTPUT_DIR = "json_Silver"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ===== CONTROL CHAR CLEANER =====

@@ -6,8 +6,8 @@ from jinja2 import Environment, FileSystemLoader
 # Mục đích: Đọc các file JSON trong thư mục json_syllabus và render thành file HTML sử dụng template Jinja2
 
 # Thư mục
-JSON_DIR = "json6" # Thư mục chứa file JSON
-OUTPUT_DIR = "LP6" # Thư mục xuất file HTML
+JSON_DIR = "output_json" # Thư mục chứa file JSON
+OUTPUT_DIR = "LP" # Thư mục xuất file HTML
 TEMPLATE_FILE = "LP.jinja2.html" # File template Jinja2
 
 # Tạo folder output nếu chưa có
